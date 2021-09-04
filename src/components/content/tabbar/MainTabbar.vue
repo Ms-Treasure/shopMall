@@ -18,7 +18,7 @@
       <tab-bar-item path="/profile" activeColor="#fd6a86">
         <img slot="tab-icon-active" src="~assets/img/tabbar/profile_active.svg" alt="">
         <img slot="tab-icon" src="~assets/img/tabbar/profile.svg" alt="">
-        <div slot="tab-text" >我的</div>
+        <div slot="tab-text" >我的111</div>
       </tab-bar-item>
     </tab-bar>
 </template>
