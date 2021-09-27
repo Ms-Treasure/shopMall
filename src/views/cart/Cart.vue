@@ -1,7 +1,6 @@
 <template>
     <div>
-         <h2>购物车33111</h2>
-         <div>2e383</div>
+         <h2>购物车</h2>
     </div>
 </template>
 <script>
@@ -10,5 +9,5 @@ export default {
 }
 </script>
 <style scope>
-    
+
 </style>
